@@ -10,7 +10,7 @@ Here you can download my updates:
 
 <a href="Jan_10_2020.html" download>January 10 Update: Recreating Grasselli and Nguyen Huu (2015)</a>
 
-<a href="Oct_25_2019.html" download>October 25 Update: computing equilibria of modified Keen model</a>
+<a href="Oct_25_2019.html" download>October 25 Update: Computing equilibria of modified Keen model</a>
 
 ### Contact
 
