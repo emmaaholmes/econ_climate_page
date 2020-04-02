@@ -1,6 +1,6 @@
 ## Welcome to Emma's GitHub Page
 
-Here you can dowload my updates:
+Here you can download my updates:
 
 <a href="March_31_2020.html" download>March 31 Update: sensivity code fixed</a>
 
