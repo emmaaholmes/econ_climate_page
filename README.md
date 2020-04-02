@@ -38,7 +38,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="May_1_2019.html" download>May 1: Two-region writeup</a>
 
-<a href="Emma_undergraduate_thesis.pdf" download>April 15: Undergraduate Thesis</a>
+<a pdf="Emma_undergraduate_thesis.pdf" download>April 15: Undergraduate Thesis</a>
 
 
 
