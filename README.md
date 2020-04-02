@@ -30,7 +30,13 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="June_10_2019.html" download>June 13: Investigating investment curves</a>
 
+<a href="May_23_2019.html" download>May 23: Investigating initial conditions</a>
+
 <a href="May_8_2019.html" download>May 8: Change in dividend specification</a>
+
+<a href="May_1_2019.html" download>May 8: Two-region writeup</a>
+
+
 
 
 
