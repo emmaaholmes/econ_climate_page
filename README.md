@@ -26,6 +26,15 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="June_24_2019.html" download>June 24: Exploring damage curves</a>
 
+<a href="June_18_2019.html" download>June 18: Changing investment and dividends</a>
+
+<a href="June_10_2019.html" download>June 13: Investigating investment curves</a>
+
+<a href="May_8_2019.html" download>May 8: Change in dividend specification</a>
+
+
+
+
 
 ### Contact
 
