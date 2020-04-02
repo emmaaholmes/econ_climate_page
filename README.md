@@ -6,7 +6,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="March_31_2020.html" download>March 31: Sensitivity code fixed</a>
 
-<a href="March_1_2020.html" download>March 1: Parameter grid search - problems with transformation</a>
+<a href="March_1_2020.html" download>March 1: Parameter grid search (sensitivity) - problems with transformation</a>
 
 <a href="Jan_24_2020.html" download>January 24: Recreating Grasselli and Nguyen Huu (2015) (further)</a>
 
@@ -18,8 +18,13 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="Aug_8_2019.html" download>August 8: Four scenarios for investment and dividends</a>
 
-<a href="Aug_2_2019.html" download>August 2: Exchnage rates</a>
+<a href="Aug_2_2019.html" download>August 2: Exchange rates</a>
 
+<a href="July_31_2019.html" download>July 31: Exchange rates and debt</a>
+
+<a href="July_16_2019.html" download>July 31: Two country description</a>
+
+<a href="June_24_2019.html" download>June 24: Exploring damage curves</a>
 
 
 ### Contact
