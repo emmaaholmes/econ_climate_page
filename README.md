@@ -2,7 +2,7 @@
 
 This page containes updates on my work on our stock-flow consistent econ-climate model. Click on the link to download and view the update in html format:
 
-#### 2020
+### 2020
 
 <a href="March_31_2020.html" download>March 31: Sensitivity code fixed</a>
 
@@ -12,7 +12,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="Jan_10_2020.html" download>January 10: Recreating Grasselli and Nguyen Huu (2015)</a>
 
-#### 2019
+### 2019
 
 <a href="Oct_25_2019.html" download>October 25: Computing equilibria of modified Keen model</a>
 
