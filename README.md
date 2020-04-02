@@ -34,7 +34,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="May_8_2019.html" download>May 8: Change in dividend specification</a>
 
-<a href="May_1_2019.html" download>May 8: Two-region writeup</a>
+<a href="May_1_2019.html" download>May 1: Two-region writeup</a>
 
 
 
