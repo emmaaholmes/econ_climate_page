@@ -16,6 +16,8 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="Oct_25_2019.html" download>October 25: Computing equilibria of modified Keen model</a>
 
+<a href="Emma_summer_writeup.pdf" download>August 16: Summer writeup</a>
+
 <a href="Aug_8_2019.html" download>August 8: Four scenarios for investment and dividends</a>
 
 <a href="Aug_2_2019.html" download>August 2: Exchange rates</a>
@@ -36,9 +38,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="May_1_2019.html" download>May 1: Two-region writeup</a>
 
-
-
-
+<a href="Emma_undergraduate_thesis.pdf" download>April 15: Undergraduate Thesis</a>
 
 
 
