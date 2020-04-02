@@ -2,7 +2,7 @@
 
 Here you can download my updates:
 
-<a href="March_31_2020.html" download>March 31 Update: sensivity code fixed</a>
+<a href="March_31_2020.html" download>March 31 Update: Sensitivity code fixed</a>
 
 <a href="March_1_2020.html" download>March 1 Update: Parameter grid search - problems with transformation</a>
 
