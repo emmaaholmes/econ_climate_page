@@ -44,13 +44,13 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <embed src="https://emmaaholmes.github.io/Emma_undergraduate_thesis.pdf" type="application/pdf" />
 
-{{ emmaaholmes.github.io}}/econ_climate_page/Emma_undergrad_thesis.pdf
+{{ https://github.com/emmaaholmes/}}/econ_climate_page/Emma_undergrad_thesis.pdf
 
-<a href="emmaaholmes.github.io/econ_climate_page/Emma_undergrad_thesis.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/emmaaholmes/econ_climate_page/Emma_undergrad_thesis.pdf" target="_blank">PDF.</a>
 
 {{https://emmaaholmes.github.io/econ_climate_page/}}
 
-https://github.com/emmaaholmes/econ_climate_page/pdf/Emma_undergrad_thesis.pdf
+https://github.com/emmaaholmes/econ_climate_page/blob/pdf/Emma_undergrad_thesis.pdf
 
 ### Contact
 
