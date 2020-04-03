@@ -40,7 +40,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="Emma_undergraduate_thesis.pdf" class="image fit">April 15: Undergraduate Thesis</a>
 
-
+emmaaholmes.github.io/Emma_undergraduate_thesis.pdf
 
 
 ### Contact
