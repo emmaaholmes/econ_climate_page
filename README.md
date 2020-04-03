@@ -51,6 +51,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 {{https://emmaaholmes.github.io/econ_climate_page/}}
 
 https://github.com/emmaaholmes/econ_climate_page/blob/pdf/Emma_undergrad_thesis.pdf
+https://github.com/emmaaholmes/econ_climate_page/blob/master/pdf/Emma_summer_writeup.pdf
 
 ### Contact
 
