@@ -40,7 +40,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="Emma_undergraduate_thesis.pdf" class="image fit">April 15: Undergraduate Thesis</a>
 
-{{ emmaaholmes.github.io}}/assets/Emma_undergrad_thesis.pdf
+{{ emmaaholmes.github.io}}/Emma_undergrad_thesis.pdf
 
 <a href="emmaaholmes.github.io/Emma_undergrad_thesis.pdf" target="_blank">PDF.</a>
 
