@@ -24,7 +24,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="July_31_2019.html" download>July 31: Exchange rates and debt</a>
 
-<a href="July_16_2019.html" download>July 31: Two country description</a>
+<a href="July_16_2019.html" download>July 16: Two country description</a>
 
 <a href="June_24_2019.html" download>June 24: Exploring damage curves</a>
 
