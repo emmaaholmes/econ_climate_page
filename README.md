@@ -1,6 +1,6 @@
 ## Welcome to Emma's GitHub Page
 
-This page containes updates on my work on our stock-flow consistent econ-climate model. Click on the link to download and view the update in html format:
+This page contains updates on my work on our stock-flow consistent econ-climate model. Click on the link to download and view the update in html format:
 
 ### 2020
 
@@ -16,7 +16,7 @@ This page containes updates on my work on our stock-flow consistent econ-climate
 
 <a href="Oct_25_2019.html" download>October 25: Computing equilibria of modified Keen model</a>
 
-<a href="https://github.com/emmaaholmes/econ_climate_page/blob/master/Emma_summer_writeup.pdf" target="_blank">April 15: Undergraduate Thesis</a>
+<a href="https://github.com/emmaaholmes/econ_climate_page/blob/master/Emma_summer_writeup.pdf" target="_blank">August 25: Summer Research Summary</a>
 
 <a href="Aug_8_2019.html" download>August 8: Four scenarios for investment and dividends</a>
 
