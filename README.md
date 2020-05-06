@@ -6,8 +6,6 @@ This page contains updates on my work on our stock-flow consistent econ-climate 
 
 <a href="model_and_code_may6.pdf" download>May 6: Summary: Stock version of Keen model with prices</a>
 
-<a href="https://github.com/emmaaholmes/econ_climate_page/blob/master/model_and_code_may6.pdf" target="_blank">May 6: Summary: Stock version of Keen model with prices</a>
-
 <a href="March_31_2020.html" download>March 31: Sensitivity code fixed</a>
 
 <a href="March_1_2020.html" download>March 1: Parameter grid search (sensitivity) - problems with transformation</a>
@@ -20,7 +18,7 @@ This page contains updates on my work on our stock-flow consistent econ-climate 
 
 <a href="Oct_25_2019.html" download>October 25: Computing equilibria of modified Keen model</a>
 
-<a href="https://github.com/emmaaholmes/econ_climate_page/blob/master/Emma_summer_writeup.pdf" target="_blank">August 25: Summer Research Summary</a>
+<a href="Emma_summer_writeup.pdf" download>August 25: Summer Research Summary</a>
 
 <a href="Aug_8_2019.html" download>August 8: Four scenarios for investment and dividends</a>
 
@@ -42,7 +40,8 @@ This page contains updates on my work on our stock-flow consistent econ-climate 
 
 <a href="May_1_2019.html" download>May 1: Two-region writeup</a>
 
-<a href="https://github.com/emmaaholmes/econ_climate_page/blob/master/Emma_summer_writeup.pdf" target="_blank">April 15: Undergraduate Thesis</a>
+<a href="Emma_undergrad_thesis.pdf" download>April 15: Undergraduate Thesis</a>
+
 
 ### Contact
 
