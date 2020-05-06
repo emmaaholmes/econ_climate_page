@@ -4,6 +4,8 @@ This page contains updates on my work on our stock-flow consistent econ-climate 
 
 ### 2020
 
+<a href="https://github.com/emmaaholmes/econ_climate_page/blob/master/model_and_code_may6.pdf" target="_blank">May 6: Summary: Stock version of Keen model with prices</a>
+
 <a href="March_31_2020.html" download>March 31: Sensitivity code fixed</a>
 
 <a href="March_1_2020.html" download>March 1: Parameter grid search (sensitivity) - problems with transformation</a>
