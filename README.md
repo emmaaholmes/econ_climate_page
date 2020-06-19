@@ -4,6 +4,8 @@ This page contains updates on my work on our stock-flow consistent econ-climate 
 
 ### 2020
 
+<a href="Reduced_model_june17.pdf" download>June 16: Attempt at reducing system with climate</a>
+
 <a href="June_5_2020_investmentcurves.html" download>June 5: Investment curves</a>
 
 <a href="May_29_2020.html" download>May 29: Basin of attraction</a>
