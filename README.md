@@ -4,6 +4,8 @@ This page contains updates on my work on our stock-flow consistent econ-climate 
 
 ### 2020
 
+<a href="June_26_2020.html" download>June 26: Initial conditions</a>
+
 <a href="June_19_2020.html" download>June 19: Comparing econ-climate models</a>
 
 <a href="Reduced_model_june17.pdf" download>June 16: Attempt at reducing system with climate</a>
